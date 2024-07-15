@@ -5,7 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Aaron504/OsTicketLab1)
   - [osTicket: Post-Installation Configuration](https://github.com/Aaron504/osTicket-Post-Installation-Lab)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/Aaron504/Ticket-Lifecycle-Lab)
 - <b>Microsoft Azure Labs</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Aaron504/Network-Security-Groups-NSGs-and-Inspecting-Traffic-Between-Azure-Virtual-Machines).
