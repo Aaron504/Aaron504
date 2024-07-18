@@ -9,7 +9,7 @@
 - <b>Microsoft Azure Labs</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Aaron504/On-premises-Active-Directory-Deployed-in-the-Cloud-Azure-)
   - [Comprehensive DNS Setup for Azure Active Directory](https://github.com/Aaron504/Comprehensive-DNS-Setup-for-Azure-AD)
-  - [Network-File-Share-Permissions-Lab](
+  - [Network-File-Share-Permissions-Lab](https://github.com/Aaron504/Network-File-Share-Permissions-Lab)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Aaron504/Network-Security-Groups-NSGs-and-Inspecting-Traffic-Between-Azure-Virtual-Machines).
   - [Creating My First Storage Account and First Resource Group](https://github.com/Aaron504/CC---Lab-1)
   - [Azure VPN Deployment Lab](https://github.com/Aaron504/Azure-VPN-Deployment-Lab)
