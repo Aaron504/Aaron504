@@ -13,6 +13,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Aaron504/Network-Security-Groups-NSGs-and-Inspecting-Traffic-Between-Azure-Virtual-Machines).
   - [Creating My First Storage Account and First Resource Group](https://github.com/Aaron504/CC---Lab-1)
   - [Azure VPN Deployment Lab](https://github.com/Aaron504/Azure-VPN-Deployment-Lab)
+- <b>AWS Cloud Engineering Projects</b>
 
 <h2>🤳Connect with me:</h2>
 
