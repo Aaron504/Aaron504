@@ -14,6 +14,7 @@
   - [Creating My First Storage Account and First Resource Group](https://github.com/Aaron504/CC---Lab-1)
   - [Azure VPN Deployment Lab](https://github.com/Aaron504/Azure-VPN-Deployment-Lab)
 - <b>Cybersecurity Projects</b>
+  - [Installing MS SQL Server](https://github.com/Aaron504/Installing-MS-SQL-Server)
 
 <h2>🤳Connect with me:</h2>
 
