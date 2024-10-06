@@ -16,6 +16,7 @@
 - <b>Cybersecurity Projects</b>
   - [Installing MS SQL Server](https://github.com/Aaron504/Installing-MS-SQL-Server)
   - [SOC Simulated Cyber Attack and Log Analysis lab](https://github.com/Aaron504/SOC-Simulated-Cyber-Attack-and-Log-Analysis-Lab)
+  - [SOC Log Analytics and GeoIP Watchlist Setup Lab](https://github.com/Aaron504/SOC-Log-Analytics-and-GeoIP-Watchlist-Setup-Lab/blob/main/README.md)
 
 <h2>🤳Connect with me:</h2>
 
