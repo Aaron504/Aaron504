@@ -15,6 +15,7 @@
   - [Azure VPN Deployment Lab](https://github.com/Aaron504/Azure-VPN-Deployment-Lab)
 - <b>Cybersecurity Projects</b>
   - [Installing MS SQL Server](https://github.com/Aaron504/Installing-MS-SQL-Server)
+  - [SOC Azure Active Directory RBAC Permissions Lab](https://github.com/Aaron504/SOC-Azure-Active-Directory-RBAC-Permissions-Lab)
   - [Logging and Monitoring: SOC Simulated Cyber Attack and Log Analysis lab](https://github.com/Aaron504/SOC-Simulated-Cyber-Attack-and-Log-Analysis-Lab)
   - [Logging and Monitoring: SOC Log Analytics and GeoIP Watchlist Setup Lab](https://github.com/Aaron504/SOC-Log-Analytics-and-GeoIP-Watchlist-Setup-Lab/blob/main/README.md)
   - [Logging and Monitoring: SOC Microsoft Defender for Cloud Intergration and Continous Export Lab](https://github.com/Aaron504/SOC-Microsoft-Defender-for-Cloud-Integration-and-Continuous-Export-Lab/blob/main/README.md)
