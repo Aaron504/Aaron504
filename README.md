@@ -21,6 +21,7 @@
   - [Logging and Monitoring: SOC Microsoft Defender for Cloud Intergration and Continous Export Lab](https://github.com/Aaron504/SOC-Microsoft-Defender-for-Cloud-Integration-and-Continuous-Export-Lab/blob/main/README.md)
   - [Logging and Monitoring: SOC NSG Flow Logs and VM Log Collection Lab](https://github.com/Aaron504/SOC-NSG-Flow-Logs-and-VM-Log-Collection-Lab)
   - [Logging and Monitoring: SOC KQL Query Mastery and Data Exploration Lab](https://github.com/Aaron504/SOC-KQL-Query-Mastery-and-Data-Exploration-Lab)
+  - [Logging and Monitoring: SOC Azure AD Audit and Sign-in Log Monitoring Lab](https://github.com/Aaron504/SOC-Azure-AD-Audit-and-Sign-In-Log-Monitoring-Lab)
 
 <h2>🤳Connect with me:</h2>
 
