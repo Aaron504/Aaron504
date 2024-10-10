@@ -20,6 +20,7 @@
   - [Logging and Monitoring: SOC Log Analytics and GeoIP Watchlist Setup Lab](https://github.com/Aaron504/SOC-Log-Analytics-and-GeoIP-Watchlist-Setup-Lab/blob/main/README.md)
   - [Logging and Monitoring: SOC Microsoft Defender for Cloud Intergration and Continous Export Lab](https://github.com/Aaron504/SOC-Microsoft-Defender-for-Cloud-Integration-and-Continuous-Export-Lab/blob/main/README.md)
   - [Logging and Monitoring: SOC NSG Flow Logs and VM Log Collection Lab](https://github.com/Aaron504/SOC-NSG-Flow-Logs-and-VM-Log-Collection-Lab)
+  - [Logging and Monitoring: SOC KQL Query Mastery and Data Exploration Lab](https://github.com/Aaron504/SOC-KQL-Query-Mastery-and-Data-Exploration-Lab)
 
 <h2>🤳Connect with me:</h2>
 
