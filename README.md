@@ -24,6 +24,7 @@
   - [Logging and Monitoring: SOC Azure AD Audit and Sign-in Log Monitoring Lab](https://github.com/Aaron504/SOC-Azure-AD-Audit-and-Sign-In-Log-Monitoring-Lab)
   - [Logging and Monitoring: SOC Azure Activity Log Monitoring and Security Query Lab](https://github.com/Aaron504/SOC-Azure-Activity-Log-Monitoring-and-Security-Query-Lab)
   - [Logging and Monitoring: SOC Azure Storage and Key Vault Logging Lab](https://github.com/Aaron504/SOC-Azure-Storage-and-Key-Vault-Logging-Lab)
+  - [Microsoft Sentinel (SIEM): SOC Sentinel World Map Workbook for Malicious Traffic Lab](https://github.com/Aaron504/SOC-Sentinel-World-Map-Workbook-for-Malicious-Traffic-Lab)
 
 <h2>🤳Connect with me:</h2>
 
