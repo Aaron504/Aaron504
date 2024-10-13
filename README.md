@@ -26,6 +26,7 @@
   - [Logging and Monitoring: SOC Azure Storage and Key Vault Logging Lab](https://github.com/Aaron504/SOC-Azure-Storage-and-Key-Vault-Logging-Lab)
   - [Microsoft Sentinel (SIEM): SOC Sentinel World Map Workbook for Malicious Traffic Lab](https://github.com/Aaron504/SOC-Sentinel-World-Map-Workbook-for-Malicious-Traffic-Lab)
   - [Microsoft Sentinel (SIEM): SOC Brute Force Detection Rule Creation Lab](https://github.com/Aaron504/SOC-Brute-Force-Detection-Rule-Creation-Lab)
+  - [Microsoft Sentinel (SIEM):SOC Custom Analytics Alerting and Incident Generation Lab](https://github.com/Aaron504/SOC-Custom-Analytics-Alerting-and-Incident-Generation-Lab)
 
 <h2>🤳Connect with me:</h2>
 
