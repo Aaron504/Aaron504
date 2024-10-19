@@ -28,6 +28,7 @@
   - [Microsoft Sentinel (SIEM): SOC Custom Analytics Alerting and Incident Generation Lab](https://github.com/Aaron504/SOC-Custom-Analytics-Alerting-and-Incident-Generation-Lab)
   - [Microsoft Sentinel (SIEM): SOC Simulated Attack and Incident Detection Lab](https://github.com/Aaron504/SOC-Simulated-Attack-and-Incident-Detection-Lab)
   - [Microsoft Sentinel (SIEM): SOC Security Monitoring and Alert Comparison Lab](https://github.com/Aaron504/SOC-Security-Monitoring-and-Alert-Comparison-Lab)
+  - [Microsoft Sentinel (SIEM): SOC Incident Management and Response Lab using NIST 800-61 Framework Incident #1](https://github.com/Aaron504/SOC-Incident-Management-and-Response-Lab-using-NIST-800-61-Framework)
 
 <h2>🤳Connect with me:</h2>
 
