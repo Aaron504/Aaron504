@@ -30,6 +30,7 @@
   - [Microsoft Sentinel (SIEM): SOC Security Monitoring and Alert Comparison Lab](https://github.com/Aaron504/SOC-Security-Monitoring-and-Alert-Comparison-Lab)
   - [Microsoft Sentinel (SIEM): SOC Incident Management and Response Lab using NIST 800-61 Framework Incident #1](https://github.com/Aaron504/SOC-Incident-Management-and-Response-Lab-using-NIST-800-61-Framework)
   - [Microsoft Sentinel (SIEM): SOC Incident Management and Response Lab using NIST 800-61 Framework Incident #2 (Privilege Escalation)](https://github.com/Aaron504/SOC-Incident-Management-and-Response-Lab-using-NIST-800-61-Framework-Privilege-Escalation-)
+  - [Microsoft Sentinel (SIEM): SOC Incident Management and Response Lab using NIST 800-61 Framework Incident #3 (Possible Malware Outbreak)](https://github.com/Aaron504/SOC-Incident-Management-and-Response-Lab-using-NIST-800-61-Framework-Possible-Malware-Outbreak-)
 
 <h2>🤳Connect with me:</h2>
 
