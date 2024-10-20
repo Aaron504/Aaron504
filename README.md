@@ -31,6 +31,7 @@
   - [Microsoft Sentinel (SIEM): SOC Incident Management and Response Lab using NIST 800-61 Framework Incident #1](https://github.com/Aaron504/SOC-Incident-Management-and-Response-Lab-using-NIST-800-61-Framework)
   - [Microsoft Sentinel (SIEM): SOC Incident Management and Response Lab using NIST 800-61 Framework Incident #2 (Privilege Escalation)](https://github.com/Aaron504/SOC-Incident-Management-and-Response-Lab-using-NIST-800-61-Framework-Privilege-Escalation-)
   - [Microsoft Sentinel (SIEM): SOC Incident Management and Response Lab using NIST 800-61 Framework Incident #3 (Possible Malware Outbreak)](https://github.com/Aaron504/SOC-Incident-Management-and-Response-Lab-using-NIST-800-61-Framework-Possible-Malware-Outbreak-)
+  - [Secure Cloud configuration: SOC Compliance and Secure Score Analysis Lab with NIST 800-53](https://github.com/Aaron504/SOC-Compliance-and-Secure-Score-Analysis-Lab-with-NIST-800-53)
 
 <h2>🤳Connect with me:</h2>
 
