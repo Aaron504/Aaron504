@@ -37,6 +37,7 @@
   - [Secure Cloud Configuration: SOC Security Monitoring and Alert Comparison Lab](https://github.com/Aaron504/SOC-Security-Monitoring-and-Alert-Comparison-Lab)
 
 - <b>AWS Cloud Projects</b>
+  - [Automated Web Application Deployment with Terraform and Jenkins](https://github.com/Aaron504/Automated-Web-Application-Deployment-with-Terraform-and-Jenkins)
 
 <h2>🤳Connect with me:</h2>
 
