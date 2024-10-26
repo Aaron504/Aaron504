@@ -6,12 +6,14 @@
   - [osTicket: Prerequisites and Installation](https://github.com/Aaron504/OsTicketLab1)
   - [osTicket: Post-Installation Configuration](https://github.com/Aaron504/osTicket-Post-Installation-Lab)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Aaron504/Ticket-Lifecycle-Lab)
+
 - <b>Microsoft Azure Labs</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Aaron504/On-premises-Active-Directory-Deployed-in-the-Cloud-Azure-)
   - [Comprehensive DNS Setup for Azure Active Directory](https://github.com/Aaron504/Comprehensive-DNS-Setup-for-Azure-AD)
   - [Network File Share Permissions Lab](https://github.com/Aaron504/Network-File-Share-Permissions-Lab)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Aaron504/Network-Security-Groups-NSGs-and-Inspecting-Traffic-Between-Azure-Virtual-Machines).
   - [Azure VPN Deployment Lab](https://github.com/Aaron504/Azure-VPN-Deployment-Lab)
+
 - <b>Cybersecurity Projects</b>
   - [Installing MS SQL Server](https://github.com/Aaron504/Installing-MS-SQL-Server)
   - [SOC Azure Active Directory RBAC Permissions Lab](https://github.com/Aaron504/SOC-Azure-Active-Directory-RBAC-Permissions-Lab)
@@ -34,9 +36,12 @@
   - [Secure Cloud Configuration: SOC Secure Network Configuration with Azure Private Link, Firewall, and NC-7 Compliance Lab](https://github.com/Aaron504/SOC-Secure-Network-Configuration-with-Azure-Private-Link-Firewall-and-NC-7-Compliance-Lab)
   - [Secure Cloud Configuration: SOC Security Monitoring and Alert Comparison Lab](https://github.com/Aaron504/SOC-Security-Monitoring-and-Alert-Comparison-Lab)
 
+- <b>AWS Cloud Projects</b>
+
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 
 [linkedin]: https://linkedin.com/in/Josh
