@@ -38,6 +38,7 @@
 
 - <b>AWS Cloud Projects</b>
   - [Automated Web Application Deployment with Terraform and Jenkins](https://github.com/Aaron504/Automated-Web-Application-Deployment-with-Terraform-and-Jenkins)
+  - [Serverless Event Driven Architecture with CI/CD and Terraform](https://github.com/Aaron504/Serverless-Event-Driven-Architecture-with-CI-CD)
 
 <h2>🤳Connect with me:</h2>
 
