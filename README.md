@@ -41,7 +41,7 @@
   - [Serverless Event Driven Architecture with CI/CD and Terraform](https://github.com/Aaron504/Serverless-Event-Driven-Architecture-with-CI-CD)
   - [AWS IDS/IPS System](https://github.com/Aaron504/AWS-IDS-IPS-EDR-System)
   - [AWS Data-Loss Prevention (DLP) System](https://github.com/Aaron504/AWS-DLP-System)
-  - [AWS Incident Response Automation and Playbooks](https://github.com/Aaron504/AWS-Incident-Response-Playbooks-and-Automation)
+  - [AWS Incident Response Automation and Playbooks (Incident #1: Compromised EC2 Instance)](https://github.com/Aaron504/AWS-Incident-Response-Playbooks-and-Automation)
 
 <h2>🤳Connect with me:</h2>
 
