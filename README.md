@@ -35,6 +35,7 @@
   - [Secure Cloud Configuration: SOC Compliance and Secure Score Analysis Lab with NIST 800-53](https://github.com/Aaron504/SOC-Compliance-and-Secure-Score-Analysis-Lab-with-NIST-800-53)
   - [Secure Cloud Configuration: SOC Secure Network Configuration with Azure Private Link, Firewall, and NC-7 Compliance Lab](https://github.com/Aaron504/SOC-Secure-Network-Configuration-with-Azure-Private-Link-Firewall-and-NC-7-Compliance-Lab)
   - [Secure Cloud Configuration: SOC Security Monitoring and Alert Comparison Lab](https://github.com/Aaron504/SOC-Security-Monitoring-and-Alert-Comparison-Lab)
+  - [Detecting Web Attacks with Python](https://github.com/Aaron504/Detecting-Web-Attacks-with-Python/blob/main/README.md)
 
 - <b>AWS Cloud Projects</b>
   - [Automated Web Application Deployment with Terraform and Jenkins](https://github.com/Aaron504/Automated-Web-Application-Deployment-with-Terraform-and-Jenkins)
