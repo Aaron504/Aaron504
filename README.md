@@ -14,7 +14,10 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Aaron504/Network-Security-Groups-NSGs-and-Inspecting-Traffic-Between-Azure-Virtual-Machines).
   - [Azure VPN Deployment Lab](https://github.com/Aaron504/Azure-VPN-Deployment-Lab)
 
-- <b>Cybersecurity Projects</b>
+- <b>Cybersecurity and Penetration Testing Projects</b>
+  - [Detecting Web Attacks with Python](https://github.com/Aaron504/Detecting-Web-Attacks-with-Python/blob/main/README.md)
+
+- <b>Azure Global Honeypot SOC: Simulating Attacks, Securing the Cloud</b>
   - [Installing MS SQL Server](https://github.com/Aaron504/Installing-MS-SQL-Server)
   - [SOC Azure Active Directory RBAC Permissions Lab](https://github.com/Aaron504/SOC-Azure-Active-Directory-RBAC-Permissions-Lab)
   - [Logging and Monitoring: SOC Simulated Cyber Attack and Log Analysis lab](https://github.com/Aaron504/SOC-Simulated-Cyber-Attack-and-Log-Analysis-Lab)
@@ -35,7 +38,7 @@
   - [Secure Cloud Configuration: SOC Compliance and Secure Score Analysis Lab with NIST 800-53](https://github.com/Aaron504/SOC-Compliance-and-Secure-Score-Analysis-Lab-with-NIST-800-53)
   - [Secure Cloud Configuration: SOC Secure Network Configuration with Azure Private Link, Firewall, and NC-7 Compliance Lab](https://github.com/Aaron504/SOC-Secure-Network-Configuration-with-Azure-Private-Link-Firewall-and-NC-7-Compliance-Lab)
   - [Secure Cloud Configuration: SOC Security Monitoring and Alert Comparison Lab](https://github.com/Aaron504/SOC-Security-Monitoring-and-Alert-Comparison-Lab)
-  - [Detecting Web Attacks with Python](https://github.com/Aaron504/Detecting-Web-Attacks-with-Python/blob/main/README.md)
+  
 
 - <b>AWS Cloud Projects</b>
   - [Automated Web Application Deployment with Terraform and Jenkins](https://github.com/Aaron504/Automated-Web-Application-Deployment-with-Terraform-and-Jenkins)
@@ -45,6 +48,7 @@
   - [AWS Incident Response Automation and Playbooks (Incident #1: Compromised EC2 Instance)](https://github.com/Aaron504/AWS-Incident-Response-Playbooks-and-Automation)
 
 - <b>AI-Powered Cybersecurity Projects</b>
+  - [AI-Based Network Intrusion Detection with Gaussian Anomaly Detection](https://github.com/Aaron504/Network-Anomaly-Detection-using-AI)
 
 <h2>🤳Connect with me:</h2>
 
