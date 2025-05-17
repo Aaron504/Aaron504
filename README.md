@@ -44,6 +44,8 @@
   - [AWS Data-Loss Prevention (DLP) System](https://github.com/Aaron504/AWS-DLP-System)
   - [AWS Incident Response Automation and Playbooks (Incident #1: Compromised EC2 Instance)](https://github.com/Aaron504/AWS-Incident-Response-Playbooks-and-Automation)
 
+- <b>AI-Powered Cybersecurity Projects</b>
+
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
