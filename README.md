@@ -49,6 +49,7 @@
 
 - <b>AI-Powered Cybersecurity Projects</b>
   - [AI-Based Network Intrusion Detection with Gaussian Anomaly Detection](https://github.com/Aaron504/Network-Anomaly-Detection-using-AI)
+  - [Detecting Phishing Emails with AI](https://github.com/Aaron504/Detecting-Phishing-Emails-with-AI/blob/main/README.md)
 
 <h2>🤳Connect with me:</h2>
 
