@@ -16,6 +16,7 @@
 
 - <b>Cybersecurity and Penetration Testing Projects</b>
   - [Detecting Web Attacks with Python](https://github.com/Aaron504/Detecting-Web-Attacks-with-Python/blob/main/README.md)
+  - [Vulnerability Assessment Using Tenable & Microsoft Azure](https://github.com/Aaron504/Cloud-VM-Vulnerability-Assessment-Using-Tenable-Microsoft-Azure/blob/main/README.md)
 
 - <b>Azure Global Honeypot SOC: Simulating Attacks, Securing the Cloud</b>
   - [Installing MS SQL Server](https://github.com/Aaron504/Installing-MS-SQL-Server)
