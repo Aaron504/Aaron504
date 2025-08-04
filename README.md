@@ -52,6 +52,7 @@
   - [AI-Based Network Intrusion Detection with Gaussian Anomaly Detection](https://github.com/Aaron504/Network-Anomaly-Detection-using-AI)
   - [Detecting Phishing Emails with AI](https://github.com/Aaron504/Detecting-Phishing-Emails-with-AI/blob/main/README.md)
   - [Cloud Architect AI Agent](https://github.com/Aaron504/AI-Cloud-Architect-Agent/blob/main/README.md)
+  - [Infrastructure as Code AI Agent](https://github.com/Aaron504/IAC-AI-Agent/blob/main/README.md)
 
 <h2>🤳Connect with me:</h2>
 
