@@ -54,6 +54,7 @@
   - [Cloud Architect AI Agent](https://github.com/Aaron504/AI-Cloud-Architect-Agent/blob/main/README.md)
   - [Infrastructure as Code AI Agent](https://github.com/Aaron504/IAC-AI-Agent/blob/main/README.md)
   - [Cost Optimizer AI Agent for Cloud Infrastructure](https://github.com/Aaron504/Cost-Optimizer-AI-Agent/blob/main/README.md)
+  - [Log Debugger AI Agent for Cloud Monitoring & Root Cause Analysis](https://github.com/Aaron504/Log-Debugger-AI-Agent-/blob/main/README.md)
 
 <h2>🤳Connect with me:</h2>
 
